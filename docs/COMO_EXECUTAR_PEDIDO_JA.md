@@ -33,15 +33,15 @@ Abra um terminal.
 ### Windows — PowerShell
 
 ```powershell
-git clone https://github.com/erkbritto/pedidos-ja.git
-cd pedidos-ja
+git clone https://github.com/KaykyCrespo/PEDIDOS_JA_API.git
+cd PEDIDOS_JA_API
 ```
 
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/erkbritto/pedidos-ja.git
-cd pedidos-ja
+git clone https://github.com/KaykyCrespo/PEDIDOS_JA_API.git
+cd PEDIDOS_JA_API
 ```
 
 ---
@@ -382,8 +382,8 @@ docker compose up -d --build
 Para uma máquina nova, o fluxo completo é:
 
 ```bash
-git clone https://github.com/erkbritto/pedidos-ja.git
-cd pedidos-ja
+git clone https://github.com/KaykyCrespo/PEDIDOS_JA_API.git
+cd PEDIDOS_JA_API
 git checkout APIPedidos-1-final
 docker compose up -d --build
 ```

@@ -14,11 +14,9 @@ dist-ssr
 *.local
 
 # Variáveis de ambiente
-/.env
-/frontend/.env
-.env.local
-.env.*.local
-!/.env.example
+.env
+.env.*
+!.env.example
 !/frontend/.env.example
 
 # Editor
